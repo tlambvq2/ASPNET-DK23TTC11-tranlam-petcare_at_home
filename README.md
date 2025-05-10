@@ -7,6 +7,13 @@ Dự án xây dựng hệ thống quản lý trung tâm chăm sóc thú cưng, b
 
 ## 2. Các bước cài đặt
 
+### Yêu cầu
+- Node.js v16+
+- .NET 8 SDK
+- SQL Server
+- Visual Studio 2022
+- Git
+
 ### Bước 1: Clone source code từ GitHub
 ```bash
 git clone https://github.com/tlambvq2/ASPNET-DK23TTC11-tranlam-petcare_at_home.git
