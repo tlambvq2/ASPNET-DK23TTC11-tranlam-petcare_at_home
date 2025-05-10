@@ -67,4 +67,8 @@ npm run dev
 
 # Liên hệ với người phát triển:
 Email: tlambvq2@gmail.com
+<<<<<<< HEAD
 SĐT : 0903710403
+=======
+SĐT : ...
+>>>>>>> da1bb40207815b80b3876709b646cc67d865e7d4
