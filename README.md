@@ -9,7 +9,7 @@ Dự án xây dựng hệ thống quản lý trung tâm chăm sóc thú cưng, b
 
 ### Bước 1: Clone source code từ GitHub
 ```bash
-git clone https://github.com//ASPNET-DK23TTC11-tranlam-petcare_at_home.git
+git clone https://github.com/tlambvq2/petcare_at_home.git
 cd src
 ```
 
@@ -64,3 +64,7 @@ npm run dev
   - Transparent Data Encryption (TDE)
   - Azure SQL Threat Detection
 - Cấu hình sao lưu tự động và phục hồi khi cần.
+
+# Liên hệ với người phát triển:
+Email: tlambvq2@gmail.com
+SĐT : ...
